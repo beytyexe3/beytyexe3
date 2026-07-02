@@ -30,7 +30,7 @@
 ## 📬 İletişim
 
 - **Discord:** `b3ytu.dll`
-- **Email:** [beytu11@gmail.com](mailto:beytu11@gmail.com)
+- **Email:** [beytu.akkaya136](mailto:beytu.akkaya136@gmail.com)
 
 ---
 
