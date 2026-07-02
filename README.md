@@ -37,7 +37,7 @@
 <!-- YETENEKLER / HEDEFLER -->
 <h3>
   💻 <b>Şu an bildiklerim:</b><br>
-  HTML • CSS • Tailwind • Bootstrap • JavaScript (öğreniyorum 🚀)<br><br>
+  HTML • CSS • Tailwind • Bootstrap • <b>DaisyUI</b> • <b>Flowbite</b> • JavaScript (öğreniyorum 🚀)<br><br>
   
   🎯 <b>Öğrenmek istediklerim (Hedeflerim):</b><br>
   React • Next.js • Node.js • TypeScript<br><br>
@@ -47,23 +47,27 @@
 
 <br>
 
-<!-- ANİMASYONLU SKILL ICONLARI -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,typescript,figma,vscode,discord&theme=dark" />
+<!-- ANİMASYONLU SKILL ICONLARI (DaisyUI eklendi) -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,daisyui,js,react,nextjs,nodejs,typescript,figma,vscode,discord&theme=dark" />
 
 <br><br>
 
-<!-- ATATÜRK SÖZÜ (Anlamlı Duruş) -->
-<blockquote style="border-left: 4px solid #5BCDEC; padding: 12px 20px; background: #0D1117; border-radius: 8px;">
-  <p style="font-size: 18px; color: #c9d1d9;">
-    <i>“Hayatta en hakiki mürşit ilimdir, fendir.”</i><br>
-    <span style="color: #8b949e;">"The truest guide in life is science and reason."</span><br>
-    <b style="color: #5BCDEC;">— Mustafa Kemal Atatürk</b>
+<!-- ATATÜRK SÖZÜ -->
+<blockquote style="border-left: 4px solid #F7DF1E; padding: 12px 24px; background: #0D1117; border-radius: 8px;">
+  <p style="font-size: 20px; color: #f0f6fc; font-weight: bold;">
+    “Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!”
+  </p>
+  <p style="color: #8b949e; font-style: italic;">
+    "The power you need is in your noble blood."
+  </p>
+  <p style="color: #58a6ff; margin-top: 4px;">
+    — <b>Mustafa Kemal Atatürk</b>
   </p>
 </blockquote>
 
 <br>
 
-<!-- GITHUB İSTATİSTİKLERİ (Hepsini topladım) -->
+<!-- GITHUB İSTATİSTİKLERİ -->
 <div style="width: 100%;">
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=beytyexe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=beytyexe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
