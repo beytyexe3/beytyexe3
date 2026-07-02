@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Beytu
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-
 ![](https://komarev.com/ghpvc/?username=beytyexe&color=blueviolet)
 
 <h3>📍 Benimle Bağlantı Kur / Connect with me</h3>
@@ -16,26 +14,22 @@
 
 <br>
 
-<h3>
-  👋 Selam! Ben <b>Beytu</b> (gerçek adım Beytullah).<br>
-  Frontend tarafında kendini geliştirmeye çalışan, öğrenmeye açık bir stajyer adayıyım.<br>
-  Hedefim: React, Next.js ve Node.js ile sağlam projeler üretmek.
-</h3>
+👋 Selam! Ben **Beytu** (gerçek adım Beytullah).  
+💻 Frontend tarafında kendini geliştirmeye çalışan, öğrenmeye açık bir stajyer adayıyım.  
+🎯 Hedefim: React, Next.js ve Node.js ile sağlam projeler üretmek.
 
 <br>
 
-<h3>
-  💻 <b>Şu an bildiklerim:</b><br>
-  HTML • CSS • Tailwind • Bootstrap • JavaScript (öğreniyorum 🚀)<br><br>
+💻 **Şu an bildiklerim:**  
+HTML • CSS • Tailwind • Bootstrap • JavaScript (öğreniyorum 🚀)
 
-  📦 <b>Kullandığım UI Kütüphaneleri:</b><br>
-  DaisyUI • Flowbite<br><br>
-  
-  🎯 <b>Öğrenmek istediklerim:</b><br>
-  React • Next.js • Node.js • TypeScript<br><br>
+📦 **Kullandığım UI Kütüphaneleri:**  
+DaisyUI • Flowbite
 
-  📬 <b>Discord’da beni bul:</b> <code>b3ytu.dll</code>
-</h3>
+🎯 **Öğrenmek istediklerim:**  
+React • Next.js • Node.js • TypeScript
+
+📬 **Discord’da beni bul:** `b3ytu.dll`
 
 <br>
 
@@ -78,13 +72,6 @@
 
 <br>
 
-<!-- Motivasyon GIF'i (En Alt) -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
-
-<br>
-
-<p>
-  <i>“Öğrenmek, en büyük yolculuktur. 🧠”</i>
-</p>
+🧠 *“Öğrenmek, en büyük yolculuktur.”*
 
 </div>
