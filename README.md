@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Beytu
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+
 ![](https://komarev.com/ghpvc/?username=beytyexe&color=blueviolet)
 
 <h3>📍 Benimle Bağlantı Kur / Connect with me</h3>
@@ -37,7 +39,7 @@
 
 <br>
 
-<!-- SKILL ICONLARI -->
+<!-- ANİMASYONLU SKILL ICONLARI -->
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,daisyui,js,react,nextjs,nodejs,typescript,figma,vscode,discord&theme=dark" />
 
 <br><br>
@@ -57,23 +59,29 @@
 
 <br>
 
-<!-- ÖĞRENME DURUMU (Progress Bar) -->
-<h3>🚀 Şu an aktif olarak öğrendiklerim (Öğrenme Durumum)</h3>
-<p>
-  <img src="https://progress-bar.dev/70/?title=JavaScript&width=400&color=5BCDEC" /><br>
-  <img src="https://progress-bar.dev/40/?title=React&width=400&color=61DAFB" /><br>
-  <img src="https://progress-bar.dev/25/?title=Next.js&width=400&color=000000" /><br>
-  <img src="https://progress-bar.dev/20/?title=Node.js&width=400&color=339933" /><br>
-  <img src="https://progress-bar.dev/10/?title=TypeScript&width=400&color=3178C6" />
-</p>
-<p><i>⭐ Not: Bu oranlar tahminidir, her gün biraz daha artıyor! 💪</i></p>
+<!-- GITHUB İSTATİSTİKLERİ & ÖĞRENME DURUMU -->
+<div style="width: 100%;">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=beytyexe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  
+  <br><br>
+
+  <h3>🚀 Şu an aktif olarak öğrendiklerim (Öğrenme Durumum)</h3>
+  <p>
+    <img src="https://progress-bar.dev/70/?title=JavaScript&width=400&color=5BCDEC" /><br>
+    <img src="https://progress-bar.dev/40/?title=React&width=400&color=61DAFB" /><br>
+    <img src="https://progress-bar.dev/25/?title=Next.js&width=400&color=000000" /><br>
+    <img src="https://progress-bar.dev/20/?title=Node.js&width=400&color=339933" /><br>
+    <img src="https://progress-bar.dev/10/?title=TypeScript&width=400&color=3178C6" />
+  </p>
+  <p><i>⭐ Not: Bu oranlar tahminidir, her gün biraz daha artıyor! 💪</i></p>
+</div>
 
 <br>
 
-<!-- SADECE ANA İSTATİSTİKLER (Commit, yıldız, vs.) -->
-<img src="https://github-readme-stats.vercel.app/api?username=beytyexe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<!-- Motivasyon GIF'i (En Alt) -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 
-<br><br>
+<br>
 
 <p>
   <i>“Öğrenmek, en büyük yolculuktur. 🧠”</i>
